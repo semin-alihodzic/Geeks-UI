@@ -1,0 +1,24 @@
+.hero-section {
+  background-color: rgb(15, 14, 63);
+}
+.hero-section-heading {
+  font-size: 56px;
+}
+.hero-section-btn {
+  display: inline-block;
+  color: #fff;
+  background-color: #754ffe;
+  text-decoration: none;
+  font-weight: 600;
+  padding: 12px 20px;
+  border-radius: 5px;
+}
+
+.card-section {
+  padding-top: 110px;
+  padding-bottom: 110px;
+}
+.card-section-img {
+  padding: 0px 20px;
+  margin-top: -50px;
+}/*# sourceMappingURL=Geeks.css.map */
